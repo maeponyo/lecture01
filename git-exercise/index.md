@@ -1,8 +1,8 @@
-== Git 練習用のファイル
+## Git 練習用のファイル
 
 このファイルを編集して、Git / GitHub に慣れましょう。
 
-== ファイルフォーマットについて
+## ファイルフォーマットについて
 
 このファイルは[Markdown](http://ja.wikipedia.org/wiki/Markdown)という書式に則って記述されています。
 Markdownはマークアップ言語の一種で、
